@@ -1,0 +1,3 @@
+C:/Users/apena/Desktop/School/ITK_C/ProjectBuild/CMakeFiles/HelloWorld.dir
+C:/Users/apena/Desktop/School/ITK_C/ProjectBuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/apena/Desktop/School/ITK_C/ProjectBuild/CMakeFiles/ZERO_CHECK.dir
